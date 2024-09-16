@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\makss\\source\\repos\\lab200\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43F91F6F-F767-4003-8A1E-5F9037661C58}|lab200\\lab200.vcxproj|C:\\Users\\makss\\source\\repos\\lab200\\lab200\\lab200.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43F91F6F-F767-4003-8A1E-5F9037661C58}|lab200\\lab200.vcxproj|solutionrelative:lab200\\lab200.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab200.cpp",
+              "DocumentMoniker": "C:\\Users\\makss\\source\\repos\\lab200\\lab200\\lab200.cpp",
+              "RelativeDocumentMoniker": "lab200\\lab200.cpp",
+              "ToolTip": "C:\\Users\\makss\\source\\repos\\lab200\\lab200\\lab200.cpp",
+              "RelativeToolTip": "lab200\\lab200.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T19:16:00.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
